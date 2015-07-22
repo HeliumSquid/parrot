@@ -47,7 +47,7 @@ Download the [latest release](https://github.com/HeliumSquid/parrot/archive/mast
 
 ## Dependencies
 
-![Tools](assets/img/parrot_tools.png)
+![Tools](assets/img/dependencies.png)
 
 You'll need the following installed:
 
