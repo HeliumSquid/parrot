@@ -76,3 +76,7 @@ Or run them all at once with:
 ```bash
 $ grunt parrot
 ```
+
+## Have fun using parrot!
+
+![Have fun!](assets/img/parrot_animation.gif)
