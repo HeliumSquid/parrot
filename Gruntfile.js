@@ -42,5 +42,6 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-contrib-sass');
 
   grunt.registerTask('default', [ 'concat', 'uglify', 'watch']);
+  grunt.registerTask('parrot', [ 'concat', 'uglify', 'watch']);
 
 };
