@@ -70,3 +70,9 @@ $ grunt watch
 $ grunt concat
 $ grunt uglify
 ```
+
+Or run them all at once with:
+
+```bash
+$ grunt parrot
+```
