@@ -1,7 +1,14 @@
 # Parrot
 Parrot structures the code for your next project nicely and comes with many useful tools.
 
-![](assets/img/parrot.png)
+![Parrot](assets/img/parrot.png)
+
+## Contents
+
+- [Files](#files)
+- [Install](#install)
+- [Dependencies](#dependencies)
+
 
 ## Files
 
@@ -32,6 +39,36 @@ Parrot structures the code for your next project nicely and comes with many usef
         | -- index.html
         | -- package.json
 
+## Install
+
+### Manually
+
+Download the [latest release](https://github.com/HeliumSquid/parrot/archive/master.zip).
+
 ## Tools
 
-![](assets/img/parrot_tools.png)
+![Tools](assets/img/parrot_tools.png)
+
+## Dependencies
+
+You'll need the following installed:
+
+- Latest Sass: `$ gem install sass`
+- Latest Grunt CLI: `$ npm install -g grunt-cli`
+- [Node.js and npm](https://nodejs.org/download/)
+- Latest Bower `$ npm install -g bower`
+
+Now you can install the dependencies:
+
+```bash
+$ npm install
+$ bower install
+```
+
+You can use the default commands:
+
+```bash
+$ grunt watch
+$ grunt concat
+$ grunt uglify
+```
