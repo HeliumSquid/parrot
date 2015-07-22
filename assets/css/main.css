@@ -184,6 +184,111 @@ td,
 th {
   padding: 0; }
 
+.button {
+  display: inline-block;
+  text-decoration: none;
+  border: 0;
+  padding: 1em 2em 1em;
+  transition-delay: 0.2s;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  border-radius: 2px; }
+  .button:hover {
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+    transition-delay: 0s; }
+
+.button-rounded {
+  border-radius: 30px; }
+
+.button-black {
+  color: #ffffff;
+  background-color: #000000; }
+
+.button-white {
+  color: #000000;
+  background-color: #ffffff; }
+
+.button-red {
+  color: #ffffff;
+  background-color: #f44336; }
+
+.button-pink {
+  color: #ffffff;
+  background-color: #e91e63; }
+
+.button-purple {
+  color: #ffffff;
+  background-color: #9c27b0; }
+
+.button-deep-purple {
+  color: #ffffff;
+  background-color: #673ab7; }
+
+.button-indigo {
+  color: #ffffff;
+  background-color: #3f51b5; }
+
+.button-blue {
+  color: #ffffff;
+  background-color: #2196f3; }
+
+.button-light-blue {
+  color: #ffffff;
+  background-color: #03a9f4; }
+
+.button-cyan {
+  color: #ffffff;
+  background-color: #00bcd4; }
+
+.button-teal {
+  color: #ffffff;
+  background-color: #009688; }
+
+.button-green {
+  color: #ffffff;
+  background-color: #4caf50; }
+
+.button-light-green {
+  color: #ffffff;
+  background-color: #8bc34a; }
+
+.button-lime {
+  color: #ffffff;
+  background-color: #cddc39; }
+
+.button-yellow {
+  color: #ffffff;
+  background-color: #ffeb3b; }
+
+.button-amber {
+  color: #ffffff;
+  background-color: #ffc107; }
+
+.button-orange {
+  color: #ffffff;
+  background-color: #ff9800; }
+
+.button-deep-orange {
+  color: #ffffff;
+  background-color: #ff5722; }
+
+.button-brown {
+  color: #ffffff;
+  background-color: #795548; }
+
+.button-grey {
+  color: #ffffff;
+  background-color: #9e9e9e; }
+
+.button-blue-grey {
+  color: #ffffff;
+  background-color: #607d8b; }
+
+a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid #CBEEFA;
+  box-shadow: 0px -4px 0px #CBEEFA inset; }
+
 * {
   line-height: 1.2;
   margin: 0; }
@@ -209,6 +314,9 @@ h1 {
 p {
   margin: 0 auto;
   width: 280px; }
+
+img {
+  padding-bottom: 20px; }
 
 @media only screen and (max-width: 280px) {
   body, p {
