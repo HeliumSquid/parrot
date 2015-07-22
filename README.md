@@ -3,7 +3,7 @@ Parrot structures the code for your next project nicely and comes with many usef
 
 ![](assets/img/parrot.png)
 
-##Files
+## Files
 
         parrot
         | -- assets/
@@ -31,3 +31,7 @@ Parrot structures the code for your next project nicely and comes with many usef
         | -- bower.json
         | -- index.html
         | -- package.json
+
+## Tools
+
+![](assets/img/tools.png)
