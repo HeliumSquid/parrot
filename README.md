@@ -45,11 +45,9 @@ Parrot structures the code for your next project nicely and comes with many usef
 
 Download the [latest release](https://github.com/HeliumSquid/parrot/archive/master.zip).
 
-## Tools
+## Dependencies
 
 ![Tools](assets/img/parrot_tools.png)
-
-## Dependencies
 
 You'll need the following installed:
 
