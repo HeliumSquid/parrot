@@ -34,4 +34,4 @@ Parrot structures the code for your next project nicely and comes with many usef
 
 ## Tools
 
-![](assets/img/tools.png)
+![](assets/img/parrot_tools.png)
