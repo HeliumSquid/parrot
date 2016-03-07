@@ -3,6 +3,9 @@ Parrot structures the code for your next project nicely and comes with many usef
 
 ![Parrot](assets/img/parrot.png)
 
+[![Dependency Status](https://david-dm.org/HeliumSquid/parrot.svg)](https://david-dm.org/HeliumSquid/parrot)
+[![devDependency Status](https://david-dm.org/HeliumSquid/parrot/dev-status.svg)](https://david-dm.org/HeliumSquid/parrot#info=devDependencies)
+
 ## Contents
 
 - [Files](#files)
